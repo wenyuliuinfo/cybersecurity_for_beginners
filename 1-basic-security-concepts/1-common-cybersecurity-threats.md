@@ -5,7 +5,7 @@ A cybersecurity threat refers to any potential danger or risk that has the poten
 
 
 ## 2. Common reasons behind
-Malicious actors compromise data and IT systems for a variety of reasons, often driven by personal gain, ideological motives, or the desire to cause disruption. Understanding these motivations can help organizations and individuals better defend against cyber threats. Some common reasons why malicious actors engage in cyberattacks include:
+Malicious actors compromise data and IT systems for a variety of reasons, often driven by personal gain, ideological motives, or the desire to cause disruption. Understanding these motivations can help organizations and individuals better defend against cyber threats. Some common reasons why malicious actors engage in cyber-attacks include:
 
 1. **Financial Gain:** Many attacks are driven by the desire for financial profit. Malicious actors may steal sensitive information like credit card numbers, bank account details, or personal identification information to commit fraud, identity theft, hold an individual or organization to ransom or sell the stolen data on the dark web.
 
@@ -61,11 +61,11 @@ These attacks include brute force attacks, where attackers repeatedly guess pass
 
 
 ## 4. MITRE ATT&CK framework
-The MITRE ATT&CK framework (Adversarial Tactics, Techniques, and Common Knowledge) is a framework that catalogs and categorizes the tactics, techniques, and procedures (TTPs) that adversaries use during cyberattacks. The framework was created by MITRE Corporation, a not-for-profit organization that operates research and development centers for various government agencies.
+The MITRE ATT&CK framework (Adversarial Tactics, Techniques, and Common Knowledge) is a framework that catalogs and categorizes the tactics, techniques, and procedures (TTPs) that adversaries use during cyber-attacks. The framework was created by MITRE Corporation, a not-for-profit organization that operates research and development centers for various government agencies.
 
 The MITRE ATT&CK framework provides a standardized way to describe and analyze cyber threats, allowing cybersecurity professionals to better understand and defend against various attack techniques. It is widely used by security teams, threat hunters, and incident responders to:
 
-1. **Understand Adersarial Behavior:** The framework documents real-world attack behaviors, outlining the steps attackers take from initial entry to achieving their objectives. It covers a broad range of attack techniques used by different threat groups.
+1. **Understand Adversarial Behavior:** The framework documents real-world attack behaviors, outlining the steps attackers take from initial entry to achieving their objectives. It covers a broad range of attack techniques used by different threat groups.
    
 2. **Plan and Implement Defense Strategies:** Security teams can use the framework to develop proactive defense strategies that align with the specific tactics and techniques adversaries might employ.
 
